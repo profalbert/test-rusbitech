@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-rusbitech/static/css/main.70008a87.chunk.css",
+    "main.js": "/test-rusbitech/static/js/main.a85834a8.chunk.js",
+    "main.js.map": "/test-rusbitech/static/js/main.a85834a8.chunk.js.map",
+    "runtime-main.js": "/test-rusbitech/static/js/runtime-main.5133ac55.js",
+    "runtime-main.js.map": "/test-rusbitech/static/js/runtime-main.5133ac55.js.map",
+    "static/js/2.40632d34.chunk.js": "/test-rusbitech/static/js/2.40632d34.chunk.js",
+    "static/js/2.40632d34.chunk.js.map": "/test-rusbitech/static/js/2.40632d34.chunk.js.map",
+    "index.html": "/test-rusbitech/index.html",
+    "precache-manifest.e4060675825dbc3ae9efc5326d9f3cce.js": "/test-rusbitech/precache-manifest.e4060675825dbc3ae9efc5326d9f3cce.js",
+    "service-worker.js": "/test-rusbitech/service-worker.js",
+    "static/css/main.70008a87.chunk.css.map": "/test-rusbitech/static/css/main.70008a87.chunk.css.map",
+    "static/js/2.40632d34.chunk.js.LICENSE.txt": "/test-rusbitech/static/js/2.40632d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5133ac55.js",
+    "static/js/2.40632d34.chunk.js",
+    "static/css/main.70008a87.chunk.css",
+    "static/js/main.a85834a8.chunk.js"
+  ]
+}
