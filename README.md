@@ -4,10 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-
-To use packages from the npm cloud server for downloading, enter the command:
 ### `npm install`
 
+Enter this command to use packages from the npm cloud server to download.
 
 ### `npm start`
 
